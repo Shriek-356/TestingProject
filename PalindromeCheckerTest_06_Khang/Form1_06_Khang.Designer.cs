@@ -42,7 +42,6 @@
             this.label1.Size = new System.Drawing.Size(77, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nhập Chuỗi";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txt_06_Khang
             // 
@@ -59,6 +58,7 @@
             this.buttonKiemtra_06_Khang.TabIndex = 2;
             this.buttonKiemtra_06_Khang.Text = "Kiểm tra";
             this.buttonKiemtra_06_Khang.UseVisualStyleBackColor = true;
+            this.buttonKiemtra_06_Khang.Click += new System.EventHandler(this.buttonKiemtra_06_Khang_Click);
             // 
             // Form1_06_Khang
             // 

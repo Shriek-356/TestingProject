@@ -52,6 +52,7 @@
     <Compile Include="Form1_06_Khang.Designer.cs">
       <DependentUpon>Form1_06_Khang.cs</DependentUpon>
     </Compile>
+    <Compile Include="PalindromeChecker_06_Khang.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1_06_Khang.resx">
