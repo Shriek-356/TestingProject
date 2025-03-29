@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using PalindromeCheckerTest_06_Khang;
 
+
 namespace PalindromeCheckerTest_06_Khang
 {
     public partial class Form1_06_Khang : Form

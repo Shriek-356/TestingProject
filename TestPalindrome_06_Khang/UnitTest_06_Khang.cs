@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PalindromeCheckerTest_06_Khang;
 
@@ -14,6 +15,7 @@ namespace TestPalindrome_06_Khang
         public void SetUp_06_Khang()
         {
             checker_06_Khang = new PalindromeChecker_06_Khang();
+            
         }
 
 
@@ -54,5 +56,7 @@ namespace TestPalindrome_06_Khang
         {
             Assert.IsFalse(checker_06_Khang.IsPalindrome_06_Khang("aba"));
         }
+
+       
     }
 }
