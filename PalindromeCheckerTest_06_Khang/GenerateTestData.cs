@@ -29,12 +29,12 @@ namespace PalindromeCheckerTest_06_Khang
 
                 // Ghi dữ liệu test vào từng dòng
                 string[,] testData = {
-                    { "madam", "True" },
+                    { "66x66", "True" },
                     { "abc", "False" },
                     { "ma d   a m", "True" },
-                    { "aa   bb 2 d", "False" },
+                    { "aa   bb 2 d", "True" },
                     { "null", "False" },
-                    { "aba", "True" }
+                    { "aba", "False" }
                 };
 
                 for (int i = 0; i < testData.GetLength(0); i++)

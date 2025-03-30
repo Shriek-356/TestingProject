@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|d:\\n1_doanktpm_06_khang\\n1_doanktpm_06_khang\\palindromecheckertest_06_khang\\generatetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\generatetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\generatetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|d:\\n1_doanktpm_06_khang\\n1_doanktpm_06_khang\\palindromecheckertest_06_khang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\palindromechecker_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\palindromechecker_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|d:\\n1_doanktpm_06_khang\\n1_doanktpm_06_khang\\palindromecheckertest_06_khang\\exceldatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\exceldatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{824CC968-FF25-4496-ABCD-E6300A6804BB}|TestPalindrome_06_Khang\\TestPalindrome_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\testpalindrome_06_khang\\unittest_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{824CC968-FF25-4496-ABCD-E6300A6804BB}|TestPalindrome_06_Khang\\TestPalindrome_06_Khang.csproj|solutionrelative:testpalindrome_06_khang\\unittest_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|d:\\n1_doanktpm_06_khang\\n1_doanktpm_06_khang\\palindromecheckertest_06_khang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\palindromechecker_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\palindromechecker_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{824CC968-FF25-4496-ABCD-E6300A6804BB}|TestPalindrome_06_Khang\\TestPalindrome_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\testpalindrome_06_khang\\excelreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824CC968-FF25-4496-ABCD-E6300A6804BB}|TestPalindrome_06_Khang\\TestPalindrome_06_Khang.csproj|solutionrelative:testpalindrome_06_khang\\excelreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\packages\\EPPlus.8.0.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -46,83 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Program.cs",
-              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Program.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Program.cs",
-              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBMAAAAsAAAAAAAAAA==",
+              "Title": "ExcelDataReader.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\ExcelDataReader.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\ExcelDataReader.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\ExcelDataReader.cs",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\ExcelDataReader.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4vxsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:27:49.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTest_06_Khang.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
-              "RelativeDocumentMoniker": "TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
-              "RelativeToolTip": "TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:59:30.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1_06_Khang.cs [Design]",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
-              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs [Design]",
-              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:00:06.343Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PalindromeChecker_06_Khang.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
-              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
-              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:28:12.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenerateTestData.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\GenerateTestData.cs",
-              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\GenerateTestData.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\GenerateTestData.cs",
-              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\GenerateTestData.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:27:12.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1_06_Khang.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
-              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
-              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAvwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:06:21.694Z",
+              "WhenOpened": "2025-03-30T05:20:33.97Z",
               "EditorCaption": ""
             },
             {
@@ -140,6 +76,81 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Program.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Program.cs",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:27:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PalindromeChecker_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:28:12.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
+              "RelativeDocumentMoniker": "TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
+              "RelativeToolTip": "TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAArwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:59:30.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateTestData.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\GenerateTestData.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\GenerateTestData.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\GenerateTestData.cs*",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\GenerateTestData.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:27:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:06:21.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1_06_Khang.cs [Design]",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs [Design]",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:00:06.343Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "readme.txt",
               "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\packages\\EPPlus.8.0.1\\readme.txt",
@@ -148,21 +159,7 @@
               "RelativeToolTip": "packages\\EPPlus.8.0.1\\readme.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-29T15:43:44.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExcelReader.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\ExcelReader.cs",
-              "RelativeDocumentMoniker": "TestPalindrome_06_Khang\\ExcelReader.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\ExcelReader.cs",
-              "RelativeToolTip": "TestPalindrome_06_Khang\\ExcelReader.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:48:07.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T15:43:44.026Z"
             }
           ]
         }
