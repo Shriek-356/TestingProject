@@ -114,14 +114,14 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExcelDataReader.cs" />
+    <Compile Include="ExcelDataReader_06_Khang.cs" />
     <Compile Include="Form1_06_Khang.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1_06_Khang.Designer.cs">
       <DependentUpon>Form1_06_Khang.cs</DependentUpon>
     </Compile>
-    <Compile Include="GenerateTestData.cs" />
+    <Compile Include="GenerateTestData_06_Khang.cs" />
     <Compile Include="PalindromeChecker_06_Khang.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
