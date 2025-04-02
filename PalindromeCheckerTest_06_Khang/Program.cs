@@ -17,7 +17,7 @@ namespace PalindromeCheckerTest_06_Khang
         static void Main()
         {
             Console.WriteLine("Đang tạo file Excel...");
-            GenerateTestData_06_Khang.CreateExcelFile(); // Chạy trước khi mở form
+            GenerateTestData_06_Khang.CreateExcelFile_06_Khang(); // Chạy trước khi mở form
             Console.WriteLine("Hoàn thành!");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

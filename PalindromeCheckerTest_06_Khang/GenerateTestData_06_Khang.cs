@@ -6,7 +6,7 @@ namespace PalindromeCheckerTest_06_Khang
 {
     public class GenerateTestData_06_Khang
     {
-        public static void CreateExcelFile()
+        public static void CreateExcelFile_06_Khang()
         {
             string projectDirectory_06_Khang = Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.FullName;
             string folderPath_06_Khang = Path.Combine(projectDirectory_06_Khang, "TestData_06_Khang");
@@ -35,7 +35,7 @@ namespace PalindromeCheckerTest_06_Khang
                     { "aa   bb 2 d", "True" }
                 };
 
-                for (int i_06_Khang = 0; i < testData_06_Khang.GetLength(0); i_06_Khang++)
+                for (int i_06_Khang = 0; i_06_Khang < testData_06_Khang.GetLength(0); i_06_Khang++)
                 {
                     worksheet_06_Khang.Cell(i_06_Khang + 2, 1).Value = testData_06_Khang[i_06_Khang, 0];
                     worksheet_06_Khang.Cell(i_06_Khang + 2, 2).Value = testData_06_Khang[i_06_Khang, 1];
