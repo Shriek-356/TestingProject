@@ -20,7 +20,7 @@ namespace N1_06_Khang_WebDriver
         private void btn_06_Khang_Click(object sender, EventArgs e)
         {
             TestDangKy_06_Khang testDangKy_06_Khang = new TestDangKy_06_Khang();
-            testDangKy_06_Khang.ExecuteSignUp_06_Khang();
+            testDangKy_06_Khang.TestCase9_ValidInfo_06_Khang();
         }
     }
 }
