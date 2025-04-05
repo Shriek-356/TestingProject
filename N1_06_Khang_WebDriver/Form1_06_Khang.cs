@@ -19,8 +19,11 @@ namespace N1_06_Khang_WebDriver
 
         private void btn_06_Khang_Click(object sender, EventArgs e)
         {
-            TestDangKy_06_Khang testDangKy_06_Khang = new TestDangKy_06_Khang();
-            testDangKy_06_Khang.TestCase9_ValidInfo_06_Khang();
+            //TestDangKy_06_Khang testDangKy_06_Khang = new TestDangKy_06_Khang();
+            //testDangKy_06_Khang.TestCase9_ValidInfo_06_Khang();
+
+            TestDangNhap_06_Khang testDangNhap_06_Khang = new TestDangNhap_06_Khang();
+            testDangNhap_06_Khang.ExecuteLogin_06_Khang();
         }
     }
 }
