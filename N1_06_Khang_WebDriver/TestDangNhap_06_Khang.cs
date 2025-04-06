@@ -57,7 +57,24 @@ namespace N1_06_Khang_WebDriver
 
         public void TestCase2_IncorrectPasswordOrEmail_06_Khang()
         {
+            TestDangNhap_06_Khang testDangNhap_06_Khang = new TestDangNhap_06_Khang(
+                "khangvskiss@gmail.com",
+                "123123KA@"
+                );
 
+            testDangNhap_06_Khang.ExecuteLogin_06_Khang();
         }
+
+
+        public void TestCase3_ValidPasswordAndEmail_06_Khang()
+        {
+            TestDangNhap_06_Khang testDangNhap_06_Khang = new TestDangNhap_06_Khang(
+                "khangvskiss15@gmail.com",
+                "123@Demo"
+                );
+
+            testDangNhap_06_Khang.ExecuteLogin_06_Khang();
+        }
+
     }
 }
