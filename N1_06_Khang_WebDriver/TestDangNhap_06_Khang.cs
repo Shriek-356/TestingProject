@@ -34,10 +34,12 @@ namespace N1_06_Khang_WebDriver
             IWebDriver driver_06_Khang = new ChromeDriver(chrome_06_Khang);
             driver_06_Khang.Navigate().GoToUrl("https://profile.w3schools.com/login?redirect_url=https%3A%2F%2Fwww.w3schools.com%2F");
 
+            //Dung truong name
             IWebElement email_06_Khang = driver_06_Khang.FindElement(By.Name("email"));
             email_06_Khang.SendKeys(emailValue_06_Khang);
 
-            IWebElement password_06_Khang = driver_06_Khang.FindElement(By.Name("password"));
+            //CssSelector lay truong password = type
+            IWebElement password_06_Khang = driver_06_Khang.FindElement(By.CssSelector("[type='password']"));
             password_06_Khang.SendKeys(passwordValue_06_Khang);
 
             //Dung XPath voi Text
