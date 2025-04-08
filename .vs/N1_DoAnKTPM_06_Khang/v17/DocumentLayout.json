@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|d:\\n1_doanktpm_06_khang\\n1_doanktpm_06_khang\\n1_06_khang_webdriver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\testdangnhap_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\testdangnhap_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|d:\\n1_doanktpm_06_khang\\n1_doanktpm_06_khang\\n1_06_khang_webdriver\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\testdangky_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\testdangky_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824CC968-FF25-4496-ABCD-E6300A6804BB}|TestPalindrome_06_Khang\\TestPalindrome_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\testpalindrome_06_khang\\unittest_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824CC968-FF25-4496-ABCD-E6300A6804BB}|TestPalindrome_06_Khang\\TestPalindrome_06_Khang.csproj|solutionrelative:testpalindrome_06_khang\\unittest_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824CC968-FF25-4496-ABCD-E6300A6804BB}|TestPalindrome_06_Khang\\TestPalindrome_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\testpalindrome_06_khang\\unittest_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824CC968-FF25-4496-ABCD-E6300A6804BB}|TestPalindrome_06_Khang\\TestPalindrome_06_Khang.csproj|solutionrelative:testpalindrome_06_khang\\unittest_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\testdangky_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\testdangky_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|d:\\n1_doanktpm_06_khang\\n1_doanktpm_06_khang\\palindromecheckertest_06_khang\\generatetestdata_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\generatetestdata_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\palindromechecker_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\palindromechecker_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\generatetestdata_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\generatetestdata_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\testtimkiem_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\testtimkiem_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\exceldatareader_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,8 +43,20 @@
       "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\palindromecheckertest_06_khang\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44725D65-F88F-465F-9E82-8BEE48743A38}|PalindromeCheckerTest_06_Khang\\PalindromeCheckerTest_06_Khang.csproj|solutionrelative:palindromecheckertest_06_khang\\form1_06_khang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\n1_06_khang_webdriver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5DBF2E12-6C97-41F2-8CD8-6182CF152D61}|N1_06_Khang_WebDriver\\N1_06_Khang_WebDriver.csproj|solutionrelative:n1_06_khang_webdriver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\packages\\EPPlus.8.0.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -66,62 +70,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\App.config",
-              "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\App.config",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\App.config",
-              "RelativeToolTip": "N1_06_Khang_WebDriver\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-07T16:23:32.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1_06_Khang.cs [Design]",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
-              "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Form1_06_Khang.cs [Design]",
-              "RelativeToolTip": "N1_06_Khang_WebDriver\\Form1_06_Khang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T14:33:44.199Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestDangNhap_06_Khang.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\TestDangNhap_06_Khang.cs",
-              "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\TestDangNhap_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\TestDangNhap_06_Khang.cs",
-              "RelativeToolTip": "N1_06_Khang_WebDriver\\TestDangNhap_06_Khang.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:53:13.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1_06_Khang.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
-              "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
-              "RelativeToolTip": "N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Title": "GenerateTestData_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\GenerateTestData_06_Khang.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\GenerateTestData_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\GenerateTestData_06_Khang.cs",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\GenerateTestData_06_Khang.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwCIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:27:45.52Z",
+              "WhenOpened": "2025-03-29T16:27:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PalindromeChecker_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\PalindromeChecker_06_Khang.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:35:01.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Program.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Program.cs",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:27:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Program.cs",
               "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\Program.cs",
@@ -129,35 +121,50 @@
               "RelativeToolTip": "N1_06_Khang_WebDriver\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:27:41.438Z"
+              "WhenOpened": "2025-04-02T16:27:41.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TestDangKy_06_Khang.cs",
               "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\TestDangKy_06_Khang.cs",
               "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\TestDangKy_06_Khang.cs",
               "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\TestDangKy_06_Khang.cs",
               "RelativeToolTip": "N1_06_Khang_WebDriver\\TestDangKy_06_Khang.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAIAwwDsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAvwJ8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T10:50:50.768Z"
+              "WhenOpened": "2025-04-02T10:50:50.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
+              "RelativeDocumentMoniker": "TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
+              "RelativeToolTip": "TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:59:30.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestTimKiem_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\TestTimKiem_06_Khang.cs",
+              "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\TestTimKiem_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\TestTimKiem_06_Khang.cs",
+              "RelativeToolTip": "N1_06_Khang_WebDriver\\TestTimKiem_06_Khang.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:53:13.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GenerateTestData_06_Khang.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\GenerateTestData_06_Khang.cs",
-              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\GenerateTestData_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\GenerateTestData_06_Khang.cs",
-              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\GenerateTestData_06_Khang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:27:12.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Form1_06_Khang.cs [Design]",
               "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
               "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
@@ -168,43 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Program.cs",
-              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Program.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Program.cs",
-              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:27:49.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitTest_06_Khang.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
-              "RelativeDocumentMoniker": "TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
-              "RelativeToolTip": "TestPalindrome_06_Khang\\UnitTest_06_Khang.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAEwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:59:30.592Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ExcelDataReader_06_Khang.cs",
-              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\ExcelDataReader_06_Khang.cs",
-              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\ExcelDataReader_06_Khang.cs",
-              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\ExcelDataReader_06_Khang.cs",
-              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\ExcelDataReader_06_Khang.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T05:20:33.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\packages.config",
               "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\packages.config",
@@ -216,19 +187,66 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcelDataReader_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\ExcelDataReader_06_Khang.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\ExcelDataReader_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\ExcelDataReader_06_Khang.cs",
+              "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\ExcelDataReader_06_Khang.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:20:33.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1_06_Khang.cs",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
+              "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
+              "RelativeToolTip": "N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:27:45.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1_06_Khang.cs [Design]",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
+              "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\Form1_06_Khang.cs",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\Form1_06_Khang.cs [Design]",
+              "RelativeToolTip": "N1_06_Khang_WebDriver\\Form1_06_Khang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:33:44.199Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Form1_06_Khang.cs",
               "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
               "RelativeDocumentMoniker": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
               "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
               "RelativeToolTip": "PalindromeCheckerTest_06_Khang\\Form1_06_Khang.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAvwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T11:06:21.694Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\App.config",
+              "RelativeDocumentMoniker": "N1_06_Khang_WebDriver\\App.config",
+              "ToolTip": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\N1_06_Khang_WebDriver\\App.config",
+              "RelativeToolTip": "N1_06_Khang_WebDriver\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-07T16:23:32.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "readme.txt",
               "DocumentMoniker": "D:\\N1_DoAnKTPM_06_Khang\\N1_DoAnKTPM_06_Khang\\packages\\EPPlus.8.0.1\\readme.txt",
               "RelativeDocumentMoniker": "packages\\EPPlus.8.0.1\\readme.txt",

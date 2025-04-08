@@ -22,8 +22,9 @@ namespace N1_06_Khang_WebDriver
             //TestDangKy_06_Khang testDangKy_06_Khang = new TestDangKy_06_Khang();
             //testDangKy_06_Khang.TestCase9_ValidInfo_06_Khang();
 
-            TestDangNhap_06_Khang testDangNhap_06_Khang = new TestDangNhap_06_Khang();
-            testDangNhap_06_Khang.TestCase3_ValidPasswordAndEmail_06_Khang(); 
+            //goi doi tuong TestTimKiem_06_Khang de lay ham Test Case()
+            TestTimKiem_06_Khang testTimKiem_06_Khang = new TestTimKiem_06_Khang();
+            testTimKiem_06_Khang.TestCase3_ValidString_06_Khang();//Goi Test Case thu 3
         }
     }
 }

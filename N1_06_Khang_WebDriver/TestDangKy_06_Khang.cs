@@ -35,7 +35,7 @@ namespace N1_06_Khang_WebDriver
             ChromeDriverService chrome_06_Khang = ChromeDriverService.CreateDefaultService();
             chrome_06_Khang.HideCommandPromptWindow = true;
 
-            // Đảm bảo rằng ChromeDriver sử dụng dịch vụ đã cấu hình
+            
             IWebDriver driver_06_Khang = new ChromeDriver(chrome_06_Khang);
             driver_06_Khang.Navigate().GoToUrl("https://profile.w3schools.com/signup?redirect_url=https%3A%2F%2Fwww.w3schools.com%2F");
 
@@ -152,7 +152,7 @@ namespace N1_06_Khang_WebDriver
         public void TestCase9_ValidInfo_06_Khang()
         {
             TestDangKy_06_Khang testCase8_06_Khang = new TestDangKy_06_Khang(
-                "khang1@gmail.com",
+                "khang15@gmail.com",
                 "Khang@123",
                 "Khang",
                 "Duy"
